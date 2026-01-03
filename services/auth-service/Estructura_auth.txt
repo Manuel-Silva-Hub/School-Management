@@ -1,0 +1,9 @@
+├── auth-service/
+│   │   ├── src/
+│   │   │   ├── controllers/
+│   │   │   ├── models/
+│   │   │   ├── services/
+│   │   │   ├── repositories/
+│   │   │   └── Program.cs
+│   │   ├── Dockerfile
+│   │   └── README.md
